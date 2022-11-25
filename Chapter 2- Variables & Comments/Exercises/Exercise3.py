@@ -1,4 +1,4 @@
-("Exerise 3 - Stripping Names")
+("Exercise 3 - Stripping Names")
 
 # \t Function
 Name = "Andrei\tLouise\tFernandez"

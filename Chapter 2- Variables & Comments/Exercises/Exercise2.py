@@ -1,4 +1,4 @@
-("Exerise 2 - Variables")
+("Exercise 2 - Variables")
 
 print("As Dwayne Johnson Once Said:")
 print("Success isn't always about Greatness, its about consistency.")

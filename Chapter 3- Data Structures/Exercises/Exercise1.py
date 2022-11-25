@@ -1,4 +1,4 @@
-("Exerise 1 - Names")
+("Exercise 1 - Names")
 
 Name = ["Zeus", "Ares", "Atreus", "Athena", "Kratos", "Deimos", "Hades"]
 

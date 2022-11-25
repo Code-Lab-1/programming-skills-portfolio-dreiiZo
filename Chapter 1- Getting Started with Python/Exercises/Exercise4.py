@@ -1,4 +1,4 @@
-("Exerise 4 - Print String Concatination")
+("Exercise 4 - String Concatination")
 
 X = "Teamwork"
 Y = "Makes"

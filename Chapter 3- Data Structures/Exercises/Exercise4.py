@@ -1,4 +1,4 @@
-("Exerise 4 - Guest List")
+("Exercise 4 - Guest List")
 
 guest = ["Amanda", "Michael", "Jimmy"]
 Name = guest[0]

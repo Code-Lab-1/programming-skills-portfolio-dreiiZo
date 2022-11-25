@@ -1,6 +1,6 @@
 ("Exercise 9")
 
 print("""A
-World
+world
 without
 fear""") 

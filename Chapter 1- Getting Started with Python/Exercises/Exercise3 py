@@ -1,4 +1,4 @@
-("Exerise 3 - Print date and time")
+("Exercise 3 - Print date and time")
 import datetime
 now = datetime.datetime.now()
 print("Current date and time:")

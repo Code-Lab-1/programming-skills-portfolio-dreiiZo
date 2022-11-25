@@ -1,4 +1,4 @@
-("Exerise 1 - Message")
+("Exercise 1 - Message")
 
 def display_message():
     """Display a message about what i'm learning."""

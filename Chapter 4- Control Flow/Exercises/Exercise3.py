@@ -1,4 +1,4 @@
-("Exerise 2 - Alien Colors #2")
+("Exercise 3 - Alien Colors #3")
 
 Alien_Color = 'Red'
 

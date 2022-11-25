@@ -1,4 +1,4 @@
-("Exerise 4 - Shrinking Guest List")
+("Exercise 6 - Shrinking Guest List")
 
 Guest = ["Amanda", "Michael", "Jimmy"]
 

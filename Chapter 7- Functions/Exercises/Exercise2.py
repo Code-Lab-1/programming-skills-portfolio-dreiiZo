@@ -1,4 +1,4 @@
-("Exerise 2 - Favorite Book")
+("Exercise 2 - Favorite Book")
 
 def favorite_book(title):
     """Display a message on anyone's favorite book."""

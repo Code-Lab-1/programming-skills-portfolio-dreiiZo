@@ -1,4 +1,4 @@
-("Exerise 5 - USB Shopper")
+("Exercise 5 - USB Shopper")
 
 Money = 50
 USB = 6
